@@ -3,7 +3,10 @@
 ---
 ## Desarrollado para [Laboratoria](https://www.laboratoria.la/)
 
-![maquetado 1](src/images/1.png)
+correo: usuario@cluster.com
+Contraseña: 123456
+
+![maquetado 1](src/images/cluster.png)
 
 ## Introducción   :busts_in_silhouette:
 
@@ -44,12 +47,12 @@ A lo largo del proyecto se han hecho varias mejoras: el 18 de julio se hizo **Cl
 Para el 25 de junio se entregó **Cluster v.2** donde se añadió que la usuaria se pudiera loguear por medio de su cuenta de Google y de Facebook, y poder hacer comentarios y borrar dichos comentarios, así como ver comentarios de otras personas.
 
 Por último, el 1 de agosto se pretende entregar **Cluster v.3**, una plataforma donde el usuario pueda ver su perfil, editar su comentario, borrarlo y darle «me gusta» a su propio comentario como al de otros usuarios.
-  
+
 ## Features   :microscope:
 
 Se hicieron 2 encuestas para conocer un poco más al público al que iría enfocado **Cluster** y así tomar decisiones pensando primeramente en nuestras futuras usuarias.
 
-Nosotras diseñamos la plataforma priorizando que las usuarias pudieran compartir sus estados e imágenes, en segundo lugar que pudieran mandar mensajes privado y en tercer lugar acceder a sus grupos de interés.  
+Nosotras diseñamos la plataforma priorizando que las usuarias pudieran compartir sus estados e imágenes, en segundo lugar que pudieran mandar mensajes privado y en tercer lugar acceder a sus grupos de interés.
 
 En **Cluster** la usuaria no solo podrá compartir sus propios estados, links y subir fotos. Esta red social está diseñada para que pueda crear y seguir debates sobre los temas que le interesan y buscar por medio de Hashtag (#) algún tema en especifico dentro del amplio universo en el que se convertirá **Cluster**.
 
