@@ -3,10 +3,13 @@
 ---
 ## Desarrollado para [Laboratoria](https://www.laboratoria.la/)
 
+Se puede acceder creando una cuenta, 1ngresando con google o facebook
+o bien con este usuario creado.
+
 correo: usuario@cluster.com
 Contraseña: 123456
 
-![maquetado 1](src/images/cluster.png)
+![Cluster](src/images/Cluster.png)
 
 ## Introducción   :busts_in_silhouette:
 
