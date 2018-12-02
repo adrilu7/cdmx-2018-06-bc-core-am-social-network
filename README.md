@@ -3,7 +3,7 @@
 ---
 ## Desarrollado para [Laboratoria](https://www.laboratoria.la/)
 
-Se puede acceder creando una cuenta, 1ngresando con google o facebook
+Se puede acceder creando una cuenta, ingresando con google o facebook
 o bien con este usuario creado.
 
 correo: usuario@cluster.com
